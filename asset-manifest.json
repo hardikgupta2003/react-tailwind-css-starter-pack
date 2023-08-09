@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Baby-GIF/static/css/main.35f09bc8.css",
+    "main.js": "/Baby-GIF/static/js/main.36e18f55.js",
+    "static/media/gif4.gif": "/Baby-GIF/static/media/gif4.6c0e756935079461d74e.gif",
+    "static/media/gif5.gif": "/Baby-GIF/static/media/gif5.0c7f6b267fd111c5a237.gif",
+    "static/media/gif2.gif": "/Baby-GIF/static/media/gif2.668fbaca069bdb4e0eec.gif",
+    "static/media/gif6.gif": "/Baby-GIF/static/media/gif6.4c6aec6640064ed68f4e.gif",
+    "static/media/gif3.gif": "/Baby-GIF/static/media/gif3.c04ed287a5abbcf86ec3.gif",
+    "static/media/gif1.gif": "/Baby-GIF/static/media/gif1.13c5b6d1536aea708e4f.gif",
+    "index.html": "/Baby-GIF/index.html",
+    "main.35f09bc8.css.map": "/Baby-GIF/static/css/main.35f09bc8.css.map",
+    "main.36e18f55.js.map": "/Baby-GIF/static/js/main.36e18f55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f09bc8.css",
+    "static/js/main.36e18f55.js"
+  ]
+}
